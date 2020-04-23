@@ -1,0 +1,41 @@
+void Polynomial::simplifyByExponents() {
+
+  Node<Term> *node1 = terms.getFirstNode();
+  Node<Term> *node2 = terms.getFirstNode();
+Node<Term> *temp12 ;
+Node<Term> *temp13;
+    int girdi=0;
+  int sonuc=-1;
+  while(node1){
+    while (node2) {
+        if((node1 != node2) && node1->element.getExponent() == node2->element.getExponent()){
+            sonuc = node1->element.getCoefficient() + node2->element.getCoefficient();
+            node1->element.setCoefficient(sonuc);
+            if(sonuc ==0){
+                temp12 = node2->next;
+                temp13 = node1->next;
+                terms.removeNode(node1);
+                node1=temp13;
+                terms.removeNode(node2);
+                node2=temp12;
+                girdi =1;
+
+            }
+            else{
+                 temp12 = node2->next;
+                terms.removeNode(node2);
+                node2=temp12;
+
+            }
+        }
+        else{
+            node2 = node2->next;
+        }
+    }
+    if(girdi == 0)node1 = node1->next;
+    girdi =0;
+    node2 = node1 ;
+  }
+
+    /* TODO */
+}
