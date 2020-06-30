@@ -130,16 +130,16 @@ public class Main {
 
                     studyGroup.startStudyingWith();
 
-                        Main.logStudy(id, studyGroup);
+                    Main.logStudy(id, studyGroup);
 
-                        try {
-                            Thread.sleep(50+random.nextInt(20));
-                        } catch (InterruptedException e) {
-                            Thread.currentThread().interrupt();
-                            throw new RuntimeException(e);
-                        }
+                    try {
+                        Thread.sleep(50+random.nextInt(20));
+                    } catch (InterruptedException e) {
+                        Thread.currentThread().interrupt();
+                        throw new RuntimeException(e);
+                    }
 
-                        Main.logDone(id, studyGroup);
+                    Main.logDone(id, studyGroup);
                     studyGroup.stopStudyingWith();
                 }
             };

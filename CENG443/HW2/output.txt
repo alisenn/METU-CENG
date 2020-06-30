@@ -1,0 +1,902 @@
+Student 14: with group quietOnes in room dijital with capacity 2
+Student 19: with group slackers in room ismailAbi with capacity 3
+Student 11: with group quietOnes in room dijital with capacity 2
+Student 17: with group quietOnes in room dijital with capacity 2
+Student 7: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 2: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 4: with group quietOnes in room dijital with capacity 2
+Student 13: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 3: with group ruleBreakers in room dijital with capacity 2
+Student 16: with group slackers in room ismailAbi with capacity 3
+Student 10: with group slackers in room ismailAbi with capacity 3
+Student 5: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 15: with group quietOnes in room dijital with capacity 2
+Student 9: with group quietOnes in room dijital with capacity 2
+Student 18: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 0: with group ruleBreakers in room dijital with capacity 2
+Student 8: with group ruleBreakers in room dijital with capacity 2
+Student 12: with group slackers in room ismailAbi with capacity 3
+Student 6: with group slackers in room ismailAbi with capacity 3
+Student 1: with group quietOnes in room dijital with capacity 2
+Student 14 studying: dijital: 1 
+Student 6 studying: dijital: 1 ismailAbi: 1 
+Student 1 studying: dijital: 2 ismailAbi: 1 
+Student 19 studying: dijital: 2 0 ismailAbi: 0 2 
+Student 12 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 12 finished: dijital: 2 0 ismailAbi: 0 2 
+Student 20: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 10 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 1 finished: dijital: 1 0 ismailAbi: 0 3 
+Student 21: with group ruleBreakers in room dijital with capacity 2
+Student 4 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 14 finished: dijital: 1 0 ismailAbi: 0 3 
+Student 22: with group quietOnes in room dijital with capacity 2
+Student 17 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 6 finished: dijital: 2 0 ismailAbi: 0 2 
+Student 23: with group ruleBreakers in room dijital with capacity 2
+Student 16 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 19 finished: dijital: 2 0 ismailAbi: 0 2 
+Student 24: with group ruleBreakers in room dijital with capacity 2
+Student 4 finished: dijital: 1 0 ismailAbi: 0 2 
+Student 25: with group ruleBreakers in room dijital with capacity 2
+Student 9 studying: dijital: 2 0 ismailAbi: 0 2 
+Student 10 finished: dijital: 2 0 ismailAbi: 0 1 
+Student 26: with group ruleBreakers in room dijital with capacity 2
+Student 16 finished: dijital: 2 0 ismailAbi: 0 0 
+Student 17 finished: dijital: 1 0 ismailAbi: 0 0 
+Student 27: with group ruleBreakers in room dijital with capacity 2
+Student 20 studying: dijital: 1 0 ismailAbi: 2 0 
+Student 11 studying: dijital: 2 0 ismailAbi: 2 0 
+Student 18 studying: dijital: 1 0 ismailAbi: 1 0 
+Student 13 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 28: with group ruleBreakers in room dijital with capacity 2
+Student 9 finished: dijital: 1 0 ismailAbi: 3 0 
+Student 29: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 15 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 18 finished: dijital: 2 0 ismailAbi: 2 0 
+Student 30: with group quietOnes in room dijital with capacity 2
+Student 7 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 13 finished: dijital: 2 0 ismailAbi: 2 0 
+Student 31: with group ruleBreakers in room dijital with capacity 2
+Student 2 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 11 finished: dijital: 1 0 ismailAbi: 3 0 
+Student 32: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 22 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 20 finished: dijital: 2 0 ismailAbi: 2 0 
+Student 33: with group ruleBreakers in room dijital with capacity 2
+Student 5 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 15 finished: dijital: 1 0 ismailAbi: 3 0 
+Student 34: with group quietOnes in room dijital with capacity 2
+Student 30 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 7 finished: dijital: 2 0 ismailAbi: 2 0 
+Student 35: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 29 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 22 finished: dijital: 1 0 ismailAbi: 3 0 
+Student 2 finished: dijital: 1 0 ismailAbi: 2 0 
+Student 36: with group slackers in room ismailAbi with capacity 3
+Student 37: with group slackers in room ismailAbi with capacity 3
+Student 34 studying: dijital: 2 0 ismailAbi: 2 0 
+Student 32 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 5 finished: dijital: 2 0 ismailAbi: 2 0 
+Student 38: with group slackers in room ismailAbi with capacity 3
+Student 35 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 35 finished: dijital: 2 0 ismailAbi: 2 0 
+Student 39: with group ruleBreakers in room dijital with capacity 2
+Student 29 finished: dijital: 2 0 ismailAbi: 1 0 
+Student 40: with group slackers in room ismailAbi with capacity 3
+Student 30 finished: dijital: 1 0 ismailAbi: 1 0 
+Student 41: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 41 studying: dijital: 1 0 ismailAbi: 2 0 
+Student 34 finished: dijital: 0 0 ismailAbi: 2 0 
+Student 42: with group ruleBreakers in room dijital with capacity 2
+Student 8 studying: dijital: 0 1 ismailAbi: 2 0 
+Student 39 studying: dijital: 0 2 ismailAbi: 2 0 
+Student 32 finished: dijital: 0 2 ismailAbi: 1 0 
+Student 43: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 43 studying: dijital: 0 2 ismailAbi: 2 0 
+Student 41 finished: dijital: 0 2 ismailAbi: 1 0 
+Student 44: with group slackers in room ismailAbi with capacity 3
+Student 43 finished: dijital: 0 2 ismailAbi: 0 0 
+Student 45: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 36 studying: dijital: 0 2 ismailAbi: 0 1 
+Student 40 studying: dijital: 0 2 ismailAbi: 0 3 
+Student 44 studying: dijital: 0 2 ismailAbi: 0 2 
+Student 8 finished: dijital: 0 1 ismailAbi: 0 3 
+Student 46: with group quietOnes in room dijital with capacity 2
+Student 33 studying: dijital: 0 2 ismailAbi: 0 3 
+Student 39 finished: dijital: 0 1 ismailAbi: 0 3 
+Student 47: with group quietOnes in room dijital with capacity 2
+Student 31 studying: dijital: 0 2 ismailAbi: 0 3 
+Student 31 finished: dijital: 0 1 ismailAbi: 0 3 
+Student 48: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 28 studying: dijital: 0 2 ismailAbi: 0 3 
+Student 40 finished: dijital: 0 2 ismailAbi: 0 2 
+Student 49: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 38 studying: dijital: 0 2 ismailAbi: 0 3 
+Student 44 finished: dijital: 0 2 ismailAbi: 0 2 
+Student 50: with group quietOnes in room dijital with capacity 2
+Student 37 studying: dijital: 0 2 ismailAbi: 0 3 
+Student 36 finished: dijital: 0 2 ismailAbi: 0 2 
+Student 51: with group ruleBreakers in room dijital with capacity 2
+Student 33 finished: dijital: 0 1 ismailAbi: 0 2 
+Student 52: with group ruleBreakers in room dijital with capacity 2
+Student 42 studying: dijital: 0 2 ismailAbi: 0 2 
+Student 38 finished: dijital: 0 2 ismailAbi: 0 1 
+Student 53: with group slackers in room ismailAbi with capacity 3
+Student 53 studying: dijital: 0 2 ismailAbi: 0 2 
+Student 28 finished: dijital: 0 1 ismailAbi: 0 2 
+Student 54: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 27 studying: dijital: 0 2 ismailAbi: 0 2 
+Student 42 finished: dijital: 0 1 ismailAbi: 0 2 
+Student 55: with group slackers in room ismailAbi with capacity 3
+Student 55 studying: dijital: 0 2 ismailAbi: 0 3 
+Student 26 studying: dijital: 0 2 ismailAbi: 0 2 
+Student 37 finished: dijital: 0 2 ismailAbi: 0 2 
+Student 56: with group slackers in room ismailAbi with capacity 3
+Student 56 studying: dijital: 0 2 ismailAbi: 0 3 
+Student 26 finished: dijital: 0 1 ismailAbi: 0 3 
+Student 57: with group slackers in room ismailAbi with capacity 3
+Student 25 studying: dijital: 0 1 ismailAbi: 0 3 
+Student 27 finished: dijital: 0 0 ismailAbi: 0 3 
+Student 24 studying: dijital: 0 2 ismailAbi: 0 3 
+Student 58: with group slackers in room ismailAbi with capacity 3
+Student 53 finished: dijital: 0 2 ismailAbi: 0 2 
+Student 59: with group slackers in room ismailAbi with capacity 3
+Student 57 studying: dijital: 0 2 ismailAbi: 0 3 
+Student 55 finished: dijital: 0 2 ismailAbi: 0 2 
+Student 60: with group quietOnes in room dijital with capacity 2
+Student 58 studying: dijital: 0 2 ismailAbi: 0 3 
+Student 56 finished: dijital: 0 2 ismailAbi: 0 2 
+Student 61: with group slackers in room ismailAbi with capacity 3
+Student 59 studying: dijital: 0 2 ismailAbi: 0 3 
+Student 25 finished: dijital: 0 1 ismailAbi: 0 3 
+Student 62: with group slackers in room ismailAbi with capacity 3
+Student 23 studying: dijital: 0 2 ismailAbi: 0 3 
+Student 58 finished: dijital: 0 2 ismailAbi: 0 2 
+Student 63: with group ruleBreakers in room dijital with capacity 2
+Student 61 studying: dijital: 0 2 ismailAbi: 0 3 
+Student 57 finished: dijital: 0 2 ismailAbi: 0 2 
+Student 64: with group slackers in room ismailAbi with capacity 3
+Student 62 studying: dijital: 0 2 ismailAbi: 0 3 
+Student 59 finished: dijital: 0 2 ismailAbi: 0 2 
+Student 65: with group slackers in room ismailAbi with capacity 3
+Student 64 studying: dijital: 0 2 ismailAbi: 0 3 
+Student 24 finished: dijital: 0 1 ismailAbi: 0 3 
+Student 66: with group ruleBreakers in room dijital with capacity 2
+Student 66 studying: dijital: 0 2 ismailAbi: 0 3 
+Student 23 finished: dijital: 0 1 ismailAbi: 0 3 
+Student 67: with group ruleBreakers in room dijital with capacity 2
+Student 21 studying: dijital: 0 2 ismailAbi: 0 3 
+Student 61 finished: dijital: 0 2 ismailAbi: 0 2 
+Student 68: with group slackers in room ismailAbi with capacity 3
+Student 65 studying: dijital: 0 2 ismailAbi: 0 3 
+Student 64 finished: dijital: 0 2 ismailAbi: 0 2 
+Student 69: with group slackers in room ismailAbi with capacity 3
+Student 68 studying: dijital: 0 2 ismailAbi: 0 3 
+Student 62 finished: dijital: 0 2 ismailAbi: 0 2 
+Student 70: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 69 studying: dijital: 0 2 ismailAbi: 0 3 
+Student 66 finished: dijital: 0 1 ismailAbi: 0 3 
+Student 71: with group ruleBreakers in room dijital with capacity 2
+Student 3 studying: dijital: 0 2 ismailAbi: 0 3 
+Student 21 finished: dijital: 0 1 ismailAbi: 0 3 
+Student 72: with group slackers in room ismailAbi with capacity 3
+Student 0 studying: dijital: 0 2 ismailAbi: 0 3 
+Student 69 finished: dijital: 0 2 ismailAbi: 0 2 
+Student 3 finished: dijital: 0 1 ismailAbi: 0 2 
+Student 72 studying: dijital: 0 1 ismailAbi: 0 3 
+Student 74: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 73: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 51 studying: dijital: 0 2 ismailAbi: 0 3 
+Student 68 finished: dijital: 0 2 ismailAbi: 0 2 
+Student 75: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 65 finished: dijital: 0 2 ismailAbi: 0 1 
+Student 76: with group ruleBreakers in room dijital with capacity 2
+Student 51 finished: dijital: 0 1 ismailAbi: 0 1 
+Student 77: with group slackers in room ismailAbi with capacity 3
+Student 52 studying: dijital: 0 2 ismailAbi: 0 1 
+Student 77 studying: dijital: 0 2 ismailAbi: 0 2 
+Student 0 finished: dijital: 0 1 ismailAbi: 0 2 
+Student 63 studying: dijital: 0 2 ismailAbi: 0 2 
+Student 78: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 72 finished: dijital: 0 2 ismailAbi: 0 1 
+Student 79: with group slackers in room ismailAbi with capacity 3
+Student 79 studying: dijital: 0 2 ismailAbi: 0 2 
+Student 79 finished: dijital: 0 2 ismailAbi: 0 1 
+Student 80: with group quietOnes in room dijital with capacity 2
+Student 63 finished: dijital: 0 1 ismailAbi: 0 1 
+Student 81: with group quietOnes in room dijital with capacity 2
+Student 67 studying: dijital: 0 2 ismailAbi: 0 1 
+Student 77 finished: dijital: 0 2 ismailAbi: 0 0 
+Student 82: with group slackers in room ismailAbi with capacity 3
+Student 45 studying: dijital: 0 2 ismailAbi: 1 0 
+Student 78 studying: dijital: 0 2 ismailAbi: 2 0 
+Student 75 studying: dijital: 0 2 ismailAbi: 3 0 
+Student 52 finished: dijital: 0 1 ismailAbi: 3 0 
+Student 83: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 71 studying: dijital: 0 2 ismailAbi: 3 0 
+Student 67 finished: dijital: 0 1 ismailAbi: 3 0 
+Student 84: with group ruleBreakers in room dijital with capacity 2
+Student 76 studying: dijital: 0 2 ismailAbi: 3 0 
+Student 71 finished: dijital: 0 1 ismailAbi: 3 0 
+Student 85: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 84 studying: dijital: 0 2 ismailAbi: 3 0 
+Student 45 finished: dijital: 0 2 ismailAbi: 2 0 
+Student 86: with group slackers in room ismailAbi with capacity 3
+Student 73 studying: dijital: 0 2 ismailAbi: 3 0 
+Student 78 finished: dijital: 0 2 ismailAbi: 2 0 
+Student 87: with group ruleBreakers in room dijital with capacity 2
+Student 74 studying: dijital: 0 2 ismailAbi: 3 0 
+Student 75 finished: dijital: 0 2 ismailAbi: 2 0 
+Student 88: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 70 studying: dijital: 0 2 ismailAbi: 3 0 
+Student 76 finished: dijital: 0 1 ismailAbi: 3 0 
+Student 89: with group quietOnes in room dijital with capacity 2
+Student 87 studying: dijital: 0 2 ismailAbi: 3 0 
+Student 84 finished: dijital: 0 1 ismailAbi: 3 0 
+Student 90: with group ruleBreakers in room dijital with capacity 2
+Student 90 studying: dijital: 0 2 ismailAbi: 3 0 
+Student 73 finished: dijital: 0 2 ismailAbi: 2 0 
+Student 91: with group quietOnes in room dijital with capacity 2
+Student 54 studying: dijital: 0 2 ismailAbi: 3 0 
+Student 74 finished: dijital: 0 2 ismailAbi: 2 0 
+Student 92: with group slackers in room ismailAbi with capacity 3
+Student 49 studying: dijital: 0 2 ismailAbi: 3 0 
+Student 70 finished: dijital: 0 2 ismailAbi: 2 0 
+Student 93: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 48 studying: dijital: 0 2 ismailAbi: 3 0 
+Student 87 finished: dijital: 0 1 ismailAbi: 3 0 
+Student 94: with group quietOnes in room dijital with capacity 2
+Student 90 finished: dijital: 0 0 ismailAbi: 3 0 
+Student 95: with group slackers in room ismailAbi with capacity 3
+Student 46 studying: dijital: 1 0 ismailAbi: 3 0 
+Student 94 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 54 finished: dijital: 2 0 ismailAbi: 2 0 
+Student 96: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 83 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 49 finished: dijital: 2 0 ismailAbi: 2 0 
+Student 97: with group quietOnes in room dijital with capacity 2
+Student 85 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 48 finished: dijital: 2 0 ismailAbi: 2 0 
+Student 98: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 88 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 94 finished: dijital: 1 0 ismailAbi: 3 0 
+Student 99: with group slackers in room ismailAbi with capacity 3
+Student 91 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 46 finished: dijital: 1 0 ismailAbi: 3 0 
+Student 89 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 100: with group ruleBreakers in room dijital with capacity 2
+Student 83 finished: dijital: 2 0 ismailAbi: 2 0 
+Student 93 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 101: with group slackers in room ismailAbi with capacity 3
+Student 85 finished: dijital: 2 0 ismailAbi: 2 0 
+Student 102: with group quietOnes in room dijital with capacity 2
+Student 96 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 88 finished: dijital: 2 0 ismailAbi: 2 0 
+Student 103: with group quietOnes in room dijital with capacity 2
+Student 98 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 91 finished: dijital: 1 0 ismailAbi: 3 0 
+Student 104: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 81 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 93 finished: dijital: 2 0 ismailAbi: 2 0 
+Student 105: with group ruleBreakers in room dijital with capacity 2
+Student 104 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 89 finished: dijital: 1 0 ismailAbi: 3 0 
+Student 106: with group ruleBreakers in room dijital with capacity 2
+Student 96 finished: dijital: 1 0 ismailAbi: 2 0 
+Student 80 studying: dijital: 2 0 ismailAbi: 2 0 
+Student 107: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 107 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 98 finished: dijital: 2 0 ismailAbi: 2 0 
+Student 108: with group slackers in room ismailAbi with capacity 3
+Student 81 finished: dijital: 1 0 ismailAbi: 2 0 
+Student 109: with group slackers in room ismailAbi with capacity 3
+Student 60 studying: dijital: 2 0 ismailAbi: 2 0 
+Student 107 finished: dijital: 2 0 ismailAbi: 1 0 
+Student 110: with group slackers in room ismailAbi with capacity 3
+Student 104 finished: dijital: 2 0 ismailAbi: 0 0 
+Student 111: with group slackers in room ismailAbi with capacity 3
+Student 111 studying: dijital: 2 0 ismailAbi: 0 1 
+Student 82 studying: dijital: 2 0 ismailAbi: 0 2 
+Student 110 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 80 finished: dijital: 1 0 ismailAbi: 0 3 
+Student 112: with group quietOnes in room dijital with capacity 2
+Student 50 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 60 finished: dijital: 1 0 ismailAbi: 0 3 
+Student 113: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 47 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 111 finished: dijital: 2 0 ismailAbi: 0 2 
+Student 114: with group slackers in room ismailAbi with capacity 3
+Student 109 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 82 finished: dijital: 2 0 ismailAbi: 0 2 
+Student 115: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 108 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 110 finished: dijital: 2 0 ismailAbi: 0 2 
+Student 116: with group ruleBreakers in room dijital with capacity 2
+Student 101 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 50 finished: dijital: 1 0 ismailAbi: 0 3 
+Student 117: with group slackers in room ismailAbi with capacity 3
+Student 97 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 47 finished: dijital: 1 0 ismailAbi: 0 3 
+Student 118: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 102 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 109 finished: dijital: 2 0 ismailAbi: 0 2 
+Student 119: with group slackers in room ismailAbi with capacity 3
+Student 99 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 108 finished: dijital: 2 0 ismailAbi: 0 2 
+Student 120: with group quietOnes in room dijital with capacity 2
+Student 95 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 101 finished: dijital: 2 0 ismailAbi: 0 2 
+Student 121: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 92 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 97 finished: dijital: 1 0 ismailAbi: 0 3 
+Student 103 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 122: with group quietOnes in room dijital with capacity 2
+Student 102 finished: dijital: 1 0 ismailAbi: 0 3 
+Student 112 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 123: with group quietOnes in room dijital with capacity 2
+Student 95 finished: dijital: 2 0 ismailAbi: 0 2 
+Student 124: with group quietOnes in room dijital with capacity 2
+Student 86 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 99 finished: dijital: 2 0 ismailAbi: 0 2 
+Student 125: with group slackers in room ismailAbi with capacity 3
+Student 114 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 92 finished: dijital: 2 0 ismailAbi: 0 2 
+Student 126: with group slackers in room ismailAbi with capacity 3
+Student 126 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 103 finished: dijital: 1 0 ismailAbi: 0 3 
+Student 127: with group quietOnes in room dijital with capacity 2
+Student 120 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 112 finished: dijital: 1 0 ismailAbi: 0 3 
+Student 128: with group quietOnes in room dijital with capacity 2
+Student 122 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 114 finished: dijital: 2 0 ismailAbi: 0 2 
+Student 129: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 117 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 126 finished: dijital: 2 0 ismailAbi: 0 2 
+Student 130: with group quietOnes in room dijital with capacity 2
+Student 119 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 86 finished: dijital: 2 0 ismailAbi: 0 2 
+Student 131: with group quietOnes in room dijital with capacity 2
+Student 125 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 120 finished: dijital: 1 0 ismailAbi: 0 3 
+Student 132: with group ruleBreakers in room dijital with capacity 2
+Student 123 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 122 finished: dijital: 1 0 ismailAbi: 0 3 
+Student 133: with group quietOnes in room dijital with capacity 2
+Student 124 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 117 finished: dijital: 2 0 ismailAbi: 0 2 
+Student 134: with group ruleBreakers in room dijital with capacity 2
+Student 119 finished: dijital: 2 0 ismailAbi: 0 1 
+Student 135: with group ruleBreakers in room dijital with capacity 2
+Student 123 finished: dijital: 1 0 ismailAbi: 0 1 
+Student 136: with group ruleBreakers in room dijital with capacity 2
+Student 127 studying: dijital: 2 0 ismailAbi: 0 1 
+Student 125 finished: dijital: 2 0 ismailAbi: 0 0 
+Student 137: with group ruleBreakers in room dijital with capacity 2
+Student 113 studying: dijital: 2 0 ismailAbi: 1 0 
+Student 129 studying: dijital: 2 0 ismailAbi: 2 0 
+Student 121 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 124 finished: dijital: 1 0 ismailAbi: 3 0 
+Student 138: with group quietOnes in room dijital with capacity 2
+Student 128 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 129 finished: dijital: 2 0 ismailAbi: 2 0 
+Student 139: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 115 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 127 finished: dijital: 1 0 ismailAbi: 3 0 
+Student 140: with group quietOnes in room dijital with capacity 2
+Student 130 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 121 finished: dijital: 2 0 ismailAbi: 2 0 
+Student 141: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 141 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 113 finished: dijital: 2 0 ismailAbi: 2 0 
+Student 142: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 142 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 128 finished: dijital: 1 0 ismailAbi: 3 0 
+Student 143: with group slackers in room ismailAbi with capacity 3
+Student 131 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 130 finished: dijital: 1 0 ismailAbi: 3 0 
+Student 144: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 133 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 115 finished: dijital: 2 0 ismailAbi: 2 0 
+Student 145: with group slackers in room ismailAbi with capacity 3
+Student 118 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 142 finished: dijital: 2 0 ismailAbi: 2 0 
+Student 146: with group quietOnes in room dijital with capacity 2
+Student 139 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 141 finished: dijital: 2 0 ismailAbi: 2 0 
+Student 147: with group quietOnes in room dijital with capacity 2
+Student 144 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 131 finished: dijital: 1 0 ismailAbi: 3 0 
+Student 148: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 138 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 133 finished: dijital: 1 0 ismailAbi: 3 0 
+Student 149: with group quietOnes in room dijital with capacity 2
+Student 140 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 118 finished: dijital: 2 0 ismailAbi: 2 0 
+Student 150: with group ruleBreakers in room dijital with capacity 2
+Student 148 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 139 finished: dijital: 2 0 ismailAbi: 2 0 
+Student 151: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 151 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 144 finished: dijital: 2 0 ismailAbi: 2 0 
+Student 152: with group ruleBreakers in room dijital with capacity 2
+Student 138 finished: dijital: 1 0 ismailAbi: 2 0 
+Student 153: with group slackers in room ismailAbi with capacity 3
+Student 146 studying: dijital: 2 0 ismailAbi: 2 0 
+Student 140 finished: dijital: 1 0 ismailAbi: 2 0 
+Student 154: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 147 studying: dijital: 2 0 ismailAbi: 2 0 
+Student 154 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 148 finished: dijital: 2 0 ismailAbi: 2 0 
+Student 155: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 155 studying: dijital: 2 0 ismailAbi: 3 0 
+Student 151 finished: dijital: 2 0 ismailAbi: 2 0 
+Student 156: with group quietOnes in room dijital with capacity 2
+Student 146 finished: dijital: 1 0 ismailAbi: 2 0 
+Student 157: with group quietOnes in room dijital with capacity 2
+Student 149 studying: dijital: 2 0 ismailAbi: 2 0 
+Student 147 finished: dijital: 1 0 ismailAbi: 2 0 
+Student 156 studying: dijital: 2 0 ismailAbi: 2 0 
+Student 158: with group quietOnes in room dijital with capacity 2
+Student 155 finished: dijital: 2 0 ismailAbi: 1 0 
+Student 159: with group slackers in room ismailAbi with capacity 3
+Student 154 finished: dijital: 2 0 ismailAbi: 0 0 
+Student 160: with group quietOnes in room dijital with capacity 2
+Student 143 studying: dijital: 2 0 ismailAbi: 0 1 
+Student 159 studying: dijital: 2 0 ismailAbi: 0 2 
+Student 153 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 149 finished: dijital: 1 0 ismailAbi: 0 3 
+Student 161: with group quietOnes in room dijital with capacity 2
+Student 157 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 156 finished: dijital: 1 0 ismailAbi: 0 3 
+Student 162: with group quietOnes in room dijital with capacity 2
+Student 158 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 153 finished: dijital: 2 0 ismailAbi: 0 2 
+Student 163: with group slackers in room ismailAbi with capacity 3
+Student 145 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 143 finished: dijital: 2 0 ismailAbi: 0 2 
+Student 164: with group quietOnes in room dijital with capacity 2
+Student 163 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 159 finished: dijital: 2 0 ismailAbi: 0 2 
+Student 165: with group slackers in room ismailAbi with capacity 3
+Student 165 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 157 finished: dijital: 1 0 ismailAbi: 0 3 
+Student 166: with group quietOnes in room dijital with capacity 2
+Student 166 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 158 finished: dijital: 1 0 ismailAbi: 0 3 
+Student 167: with group ruleBreakers in room dijital with capacity 2
+Student 160 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 145 finished: dijital: 2 0 ismailAbi: 0 2 
+Student 168: with group quietOnes in room dijital with capacity 2
+Student 163 finished: dijital: 2 0 ismailAbi: 0 1 
+Student 169: with group ruleBreakers in room dijital with capacity 2
+Student 165 finished: dijital: 2 0 ismailAbi: 0 0 
+Student 170: with group slackers in room ismailAbi with capacity 3
+Student 170 studying: dijital: 2 0 ismailAbi: 0 1 
+Student 166 finished: dijital: 1 0 ismailAbi: 0 1 
+Student 171: with group quietOnes in room dijital with capacity 2
+Student 161 studying: dijital: 2 0 ismailAbi: 0 1 
+Student 160 finished: dijital: 1 0 ismailAbi: 0 1 
+Student 172: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 162 studying: dijital: 2 0 ismailAbi: 0 1 
+Student 170 finished: dijital: 2 0 ismailAbi: 0 0 
+Student 173: with group quietOnes in room dijital with capacity 2
+Student 172 studying: dijital: 2 0 ismailAbi: 1 0 
+Student 161 finished: dijital: 1 0 ismailAbi: 1 0 
+Student 174: with group ruleBreakers in room dijital with capacity 2
+Student 164 studying: dijital: 2 0 ismailAbi: 1 0 
+Student 162 finished: dijital: 1 0 ismailAbi: 1 0 
+Student 175: with group slackers in room ismailAbi with capacity 3
+Student 168 studying: dijital: 2 0 ismailAbi: 1 0 
+Student 172 finished: dijital: 2 0 ismailAbi: 0 0 
+Student 176: with group quietOnes in room dijital with capacity 2
+Student 175 studying: dijital: 2 0 ismailAbi: 0 1 
+Student 164 finished: dijital: 1 0 ismailAbi: 0 1 
+Student 177: with group quietOnes in room dijital with capacity 2
+Student 171 studying: dijital: 2 0 ismailAbi: 0 1 
+Student 168 finished: dijital: 1 0 ismailAbi: 0 1 
+Student 178: with group quietOnes in room dijital with capacity 2
+Student 173 studying: dijital: 2 0 ismailAbi: 0 1 
+Student 175 finished: dijital: 2 0 ismailAbi: 0 0 
+Student 179: with group quietOnes in room dijital with capacity 2
+Student 171 finished: dijital: 1 0 ismailAbi: 0 0 
+Student 180: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 176 studying: dijital: 2 0 ismailAbi: 0 0 
+Student 180 studying: dijital: 2 0 ismailAbi: 1 0 
+Student 173 finished: dijital: 1 0 ismailAbi: 1 0 
+Student 181: with group slackers in room ismailAbi with capacity 3
+Student 177 studying: dijital: 2 0 ismailAbi: 1 0 
+Student 180 finished: dijital: 2 0 ismailAbi: 0 0 
+Student 182: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 181 studying: dijital: 2 0 ismailAbi: 0 1 
+Student 176 finished: dijital: 1 0 ismailAbi: 0 1 
+Student 183: with group ruleBreakers in room dijital with capacity 2
+Student 178 studying: dijital: 2 0 ismailAbi: 0 1 
+Student 177 finished: dijital: 1 0 ismailAbi: 0 1 
+Student 184: with group quietOnes in room dijital with capacity 2
+Student 179 studying: dijital: 2 0 ismailAbi: 0 1 
+Student 181 finished: dijital: 2 0 ismailAbi: 0 0 
+Student 185: with group quietOnes in room dijital with capacity 2
+Student 182 studying: dijital: 2 0 ismailAbi: 1 0 
+Student 178 finished: dijital: 1 0 ismailAbi: 1 0 
+Student 186: with group slackers in room ismailAbi with capacity 3
+Student 184 studying: dijital: 2 0 ismailAbi: 1 0 
+Student 179 finished: dijital: 1 0 ismailAbi: 1 0 
+Student 187: with group ruleBreakers in room dijital with capacity 2
+Student 185 studying: dijital: 2 0 ismailAbi: 1 0 
+Student 182 finished: dijital: 2 0 ismailAbi: 0 0 
+Student 188: with group ruleBreakers in room dijital with capacity 2
+Student 186 studying: dijital: 2 0 ismailAbi: 0 1 
+Student 184 finished: dijital: 1 0 ismailAbi: 0 1 
+Student 189: with group slackers in room ismailAbi with capacity 3
+Student 189 studying: dijital: 1 0 ismailAbi: 0 2 
+Student 185 finished: dijital: 0 0 ismailAbi: 0 2 
+Student 190: with group quietOnes in room dijital with capacity 2
+Student 100 studying: dijital: 0 1 ismailAbi: 0 2 
+Student 188 studying: dijital: 0 2 ismailAbi: 0 2 
+Student 189 finished: dijital: 0 2 ismailAbi: 0 1 
+Student 191: with group ruleBreakers in room dijital with capacity 2
+Student 186 finished: dijital: 0 2 ismailAbi: 0 0 
+Student 192: with group ruleBreakers in room dijital with capacity 2
+Student 188 finished: dijital: 0 1 ismailAbi: 0 0 
+Student 193: with group ruleBreakers in room dijital with capacity 2
+Student 187 studying: dijital: 0 2 ismailAbi: 0 0 
+Student 100 finished: dijital: 0 1 ismailAbi: 0 0 
+Student 194: with group quietOnes in room dijital with capacity 2
+Student 183 studying: dijital: 0 2 ismailAbi: 0 0 
+Student 183 finished: dijital: 0 1 ismailAbi: 0 0 
+Student 195: with group slackers in room ismailAbi with capacity 3
+Student 174 studying: dijital: 0 2 ismailAbi: 0 0 
+Student 195 studying: dijital: 0 2 ismailAbi: 0 1 
+Student 187 finished: dijital: 0 1 ismailAbi: 0 1 
+Student 196: with group ruleBreakers in room dijital with capacity 2
+Student 196 studying: dijital: 0 2 ismailAbi: 0 1 
+Student 196 finished: dijital: 0 1 ismailAbi: 0 1 
+Student 197: with group slackers in room ismailAbi with capacity 3
+Student 197 studying: dijital: 0 1 ismailAbi: 0 2 
+Student 169 studying: dijital: 0 2 ismailAbi: 0 2 
+Student 174 finished: dijital: 0 1 ismailAbi: 0 2 
+Student 198: with group ruleBreakers in room dijital with capacity 2
+Student 167 studying: dijital: 0 2 ismailAbi: 0 2 
+Student 195 finished: dijital: 0 2 ismailAbi: 0 1 
+Student 199: with group ruleBreakers in room dijital with capacity 2
+Student 197 finished: dijital: 0 2 ismailAbi: 0 0 
+Student 200: with group slackers in room ismailAbi with capacity 3
+Student 200 studying: dijital: 0 2 ismailAbi: 0 1 
+Student 169 finished: dijital: 0 1 ismailAbi: 0 1 
+Student 201: with group ruleBreakers in room dijital with capacity 2
+Student 152 studying: dijital: 0 2 ismailAbi: 0 1 
+Student 167 finished: dijital: 0 1 ismailAbi: 0 1 
+Student 202: with group slackers in room ismailAbi with capacity 3
+Student 202 studying: dijital: 0 1 ismailAbi: 0 2 
+Student 150 studying: dijital: 0 2 ismailAbi: 0 2 
+Student 200 finished: dijital: 0 2 ismailAbi: 0 1 
+Student 202 finished: dijital: 0 2 ismailAbi: 0 0 
+Student 203: with group quietOnes in room dijital with capacity 2
+Student 204: with group ruleBreakers in room dijital with capacity 2
+Student 152 finished: dijital: 0 1 ismailAbi: 0 0 
+Student 205: with group ruleBreakers in room dijital with capacity 2
+Student 137 studying: dijital: 0 2 ismailAbi: 0 0 
+Student 150 finished: dijital: 0 1 ismailAbi: 0 0 
+Student 206: with group ruleBreakers in room dijital with capacity 2
+Student 136 studying: dijital: 0 2 ismailAbi: 0 0 
+Student 136 finished: dijital: 0 1 ismailAbi: 0 0 
+Student 207: with group slackers in room ismailAbi with capacity 3
+Student 207 studying: dijital: 0 1 ismailAbi: 0 1 
+Student 135 studying: dijital: 0 2 ismailAbi: 0 1 
+Student 137 finished: dijital: 0 1 ismailAbi: 0 1 
+Student 208: with group slackers in room ismailAbi with capacity 3
+Student 208 studying: dijital: 0 1 ismailAbi: 0 2 
+Student 134 studying: dijital: 0 2 ismailAbi: 0 2 
+Student 207 finished: dijital: 0 2 ismailAbi: 0 1 
+Student 135 finished: dijital: 0 1 ismailAbi: 0 1 
+Student 209: with group quietOnes in room dijital with capacity 2
+Student 210: with group quietOnes in room dijital with capacity 2
+Student 132 studying: dijital: 0 2 ismailAbi: 0 1 
+Student 208 finished: dijital: 0 2 ismailAbi: 0 0 
+Student 211: with group ruleBreakers in room dijital with capacity 2
+Student 134 finished: dijital: 0 1 ismailAbi: 0 0 
+Student 212: with group ruleBreakers in room dijital with capacity 2
+Student 116 studying: dijital: 0 2 ismailAbi: 0 0 
+Student 132 finished: dijital: 0 1 ismailAbi: 0 0 
+Student 213: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 106 studying: dijital: 0 2 ismailAbi: 0 0 
+Student 213 studying: dijital: 0 2 ismailAbi: 1 0 
+Student 116 finished: dijital: 0 1 ismailAbi: 1 0 
+Student 214: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 214 studying: dijital: 0 1 ismailAbi: 2 0 
+Student 105 studying: dijital: 0 2 ismailAbi: 2 0 
+Student 213 finished: dijital: 0 2 ismailAbi: 1 0 
+Student 215: with group ruleBreakers in room dijital with capacity 2
+Student 106 finished: dijital: 0 1 ismailAbi: 1 0 
+Student 216: with group quietOnes in room dijital with capacity 2
+Student 191 studying: dijital: 0 2 ismailAbi: 1 0 
+Student 105 finished: dijital: 0 1 ismailAbi: 1 0 
+Student 217: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 192 studying: dijital: 0 2 ismailAbi: 1 0 
+Student 217 studying: dijital: 0 2 ismailAbi: 2 0 
+Student 214 finished: dijital: 0 2 ismailAbi: 1 0 
+Student 218: with group slackers in room ismailAbi with capacity 3
+Student 191 finished: dijital: 0 1 ismailAbi: 1 0 
+Student 219: with group ruleBreakers in room dijital with capacity 2
+Student 219 studying: dijital: 0 2 ismailAbi: 1 0 
+Student 217 finished: dijital: 0 2 ismailAbi: 0 0 
+Student 220: with group slackers in room ismailAbi with capacity 3
+Student 220 studying: dijital: 0 2 ismailAbi: 0 1 
+Student 218 studying: dijital: 0 2 ismailAbi: 0 2 
+Student 192 finished: dijital: 0 1 ismailAbi: 0 2 
+Student 221: with group quietOnes in room dijital with capacity 2
+Student 193 studying: dijital: 0 2 ismailAbi: 0 2 
+Student 220 finished: dijital: 0 2 ismailAbi: 0 1 
+Student 222: with group ruleBreakers in room dijital with capacity 2
+Student 218 finished: dijital: 0 2 ismailAbi: 0 0 
+Student 223: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 223 studying: dijital: 0 2 ismailAbi: 1 0 
+Student 219 finished: dijital: 0 1 ismailAbi: 1 0 
+Student 224: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 224 studying: dijital: 0 1 ismailAbi: 2 0 
+Student 198 studying: dijital: 0 2 ismailAbi: 2 0 
+Student 193 finished: dijital: 0 1 ismailAbi: 2 0 
+Student 225: with group quietOnes in room dijital with capacity 2
+Student 199 studying: dijital: 0 2 ismailAbi: 2 0 
+Student 224 finished: dijital: 0 2 ismailAbi: 1 0 
+Student 226: with group quietOnes in room dijital with capacity 2
+Student 199 finished: dijital: 0 1 ismailAbi: 1 0 
+Student 227: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 227 studying: dijital: 0 1 ismailAbi: 2 0 
+Student 201 studying: dijital: 0 2 ismailAbi: 2 0 
+Student 198 finished: dijital: 0 1 ismailAbi: 2 0 
+Student 228: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 223 finished: dijital: 0 1 ismailAbi: 1 0 
+Student 204 studying: dijital: 0 2 ismailAbi: 1 0 
+Student 228 studying: dijital: 0 2 ismailAbi: 2 0 
+Student 229: with group quietOnes in room dijital with capacity 2
+Student 227 finished: dijital: 0 2 ismailAbi: 1 0 
+Student 230: with group slackers in room ismailAbi with capacity 3
+Student 201 finished: dijital: 0 1 ismailAbi: 1 0 
+Student 231: with group ruleBreakers in room dijital with capacity 2
+Student 205 studying: dijital: 0 2 ismailAbi: 1 0 
+Student 228 finished: dijital: 0 2 ismailAbi: 0 0 
+Student 232: with group slackers in room ismailAbi with capacity 3
+Student 232 studying: dijital: 0 2 ismailAbi: 0 1 
+Student 230 studying: dijital: 0 2 ismailAbi: 0 2 
+Student 204 finished: dijital: 0 1 ismailAbi: 0 2 
+Student 233: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 206 studying: dijital: 0 2 ismailAbi: 0 2 
+Student 205 finished: dijital: 0 1 ismailAbi: 0 2 
+Student 234: with group slackers in room ismailAbi with capacity 3
+Student 234 studying: dijital: 0 1 ismailAbi: 0 3 
+Student 211 studying: dijital: 0 2 ismailAbi: 0 3 
+Student 230 finished: dijital: 0 2 ismailAbi: 0 2 
+Student 235: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 206 finished: dijital: 0 1 ismailAbi: 0 2 
+Student 236: with group slackers in room ismailAbi with capacity 3
+Student 212 studying: dijital: 0 2 ismailAbi: 0 2 
+Student 236 studying: dijital: 0 2 ismailAbi: 0 3 
+Student 232 finished: dijital: 0 2 ismailAbi: 0 2 
+Student 237: with group slackers in room ismailAbi with capacity 3
+Student 237 studying: dijital: 0 2 ismailAbi: 0 3 
+Student 234 finished: dijital: 0 2 ismailAbi: 0 2 
+Student 238: with group quietOnes in room dijital with capacity 2
+Student 211 finished: dijital: 0 1 ismailAbi: 0 2 
+Student 239: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 215 studying: dijital: 0 2 ismailAbi: 0 2 
+Student 212 finished: dijital: 0 1 ismailAbi: 0 2 
+Student 240: with group ruleBreakers in room dijital with capacity 2
+Student 222 studying: dijital: 0 2 ismailAbi: 0 2 
+Student 236 finished: dijital: 0 2 ismailAbi: 0 1 
+Student 241: with group slackers in room ismailAbi with capacity 3
+Student 241 studying: dijital: 0 2 ismailAbi: 0 2 
+Student 237 finished: dijital: 0 2 ismailAbi: 0 1 
+Student 242: with group ruleBreakers in room dijital with capacity 2
+Student 215 finished: dijital: 0 1 ismailAbi: 0 1 
+Student 243: with group slackers in room ismailAbi with capacity 3
+Student 231 studying: dijital: 0 2 ismailAbi: 0 1 
+Student 243 studying: dijital: 0 2 ismailAbi: 0 2 
+Student 241 finished: dijital: 0 2 ismailAbi: 0 1 
+Student 244: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 222 finished: dijital: 0 1 ismailAbi: 0 1 
+Student 245: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 240 studying: dijital: 0 2 ismailAbi: 0 1 
+Student 231 finished: dijital: 0 1 ismailAbi: 0 1 
+Student 246: with group ruleBreakers in room dijital with capacity 2
+Student 242 studying: dijital: 0 2 ismailAbi: 0 1 
+Student 243 finished: dijital: 0 2 ismailAbi: 0 0 
+Student 247: with group ruleBreakers in room dijital with capacity 2
+Student 233 studying: dijital: 0 2 ismailAbi: 1 0 
+Student 245 studying: dijital: 0 2 ismailAbi: 2 0 
+Student 244 studying: dijital: 0 2 ismailAbi: 3 0 
+Student 240 finished: dijital: 0 1 ismailAbi: 3 0 
+Student 248: with group slackers in room ismailAbi with capacity 3
+Student 246 studying: dijital: 0 2 ismailAbi: 3 0 
+Student 242 finished: dijital: 0 1 ismailAbi: 3 0 
+Student 249: with group quietOnes in room dijital with capacity 2
+Student 247 studying: dijital: 0 2 ismailAbi: 3 0 
+Student 245 finished: dijital: 0 2 ismailAbi: 2 0 
+Student 250: with group ruleBreakers in room dijital with capacity 2
+Student 239 studying: dijital: 0 2 ismailAbi: 3 0 
+Student 244 finished: dijital: 0 2 ismailAbi: 2 0 
+Student 251: with group slackers in room ismailAbi with capacity 3
+Student 235 studying: dijital: 0 2 ismailAbi: 3 0 
+Student 233 finished: dijital: 0 2 ismailAbi: 2 0 
+Student 252: with group quietOnes in room dijital with capacity 2
+Student 246 finished: dijital: 0 1 ismailAbi: 2 0 
+Student 253: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 250 studying: dijital: 0 2 ismailAbi: 2 0 
+Student 253 studying: dijital: 0 2 ismailAbi: 3 0 
+Student 247 finished: dijital: 0 1 ismailAbi: 3 0 
+Student 254: with group quietOnes in room dijital with capacity 2
+Student 239 finished: dijital: 0 1 ismailAbi: 2 0 
+Student 255: with group ruleBreakers in room dijital with capacity 2
+Student 255 studying: dijital: 0 2 ismailAbi: 2 0 
+Student 235 finished: dijital: 0 2 ismailAbi: 1 0 
+Student 256: with group slackers in room ismailAbi with capacity 3
+Student 253 finished: dijital: 0 2 ismailAbi: 0 0 
+Student 257: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 248 studying: dijital: 0 2 ismailAbi: 0 1 
+Student 251 studying: dijital: 0 2 ismailAbi: 0 2 
+Student 256 studying: dijital: 0 2 ismailAbi: 0 3 
+Student 250 finished: dijital: 0 1 ismailAbi: 0 3 
+Student 258: with group ruleBreakers in room dijital with capacity 2
+Student 258 studying: dijital: 0 2 ismailAbi: 0 3 
+Student 256 finished: dijital: 0 2 ismailAbi: 0 2 
+Student 259: with group quietOnes in room dijital with capacity 2
+Student 255 finished: dijital: 0 1 ismailAbi: 0 2 
+Student 260: with group slackers in room ismailAbi with capacity 3
+Student 260 studying: dijital: 0 1 ismailAbi: 0 3 
+Student 248 finished: dijital: 0 1 ismailAbi: 0 2 
+Student 261: with group ruleBreakers in room dijital with capacity 2
+Student 261 studying: dijital: 0 2 ismailAbi: 0 2 
+Student 258 finished: dijital: 0 1 ismailAbi: 0 2 
+Student 262: with group slackers in room ismailAbi with capacity 3
+Student 262 studying: dijital: 0 1 ismailAbi: 0 3 
+Student 251 finished: dijital: 0 1 ismailAbi: 0 2 
+Student 263: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 260 finished: dijital: 0 1 ismailAbi: 0 1 
+Student 264: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 262 finished: dijital: 0 1 ismailAbi: 0 0 
+Student 265: with group ruleBreakers in room dijital with capacity 2
+Student 265 studying: dijital: 0 2 ismailAbi: 0 0 
+Student 257 studying: dijital: 0 2 ismailAbi: 1 0 
+Student 263 studying: dijital: 0 2 ismailAbi: 2 0 
+Student 264 studying: dijital: 0 2 ismailAbi: 3 0 
+Student 261 finished: dijital: 0 1 ismailAbi: 3 0 
+Student 266: with group quietOnes in room dijital with capacity 2
+Student 263 finished: dijital: 0 1 ismailAbi: 2 0 
+Student 267: with group quietOnes in room dijital with capacity 2
+Student 257 finished: dijital: 0 1 ismailAbi: 1 0 
+Student 264 finished: dijital: 0 1 ismailAbi: 0 0 
+Student 268: with group quietOnes in room dijital with capacity 2
+Student 269: with group slackers in room ismailAbi with capacity 3
+Student 269 studying: dijital: 0 1 ismailAbi: 0 1 
+Student 265 finished: dijital: 0 0 ismailAbi: 0 1 
+Student 270: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 190 studying: dijital: 1 0 ismailAbi: 0 1 
+Student 268 studying: dijital: 2 0 ismailAbi: 0 1 
+Student 268 finished: dijital: 1 0 ismailAbi: 0 1 
+Student 271: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 267 studying: dijital: 2 0 ismailAbi: 0 1 
+Student 269 finished: dijital: 2 0 ismailAbi: 0 0 
+Student 272: with group ruleBreakers in room dijital with capacity 2
+Student 271 studying: dijital: 2 0 ismailAbi: 1 0 
+Student 270 studying: dijital: 2 0 ismailAbi: 2 0 
+Student 190 finished: dijital: 1 0 ismailAbi: 2 0 
+Student 273: with group slackers in room ismailAbi with capacity 3
+Student 266 studying: dijital: 2 0 ismailAbi: 2 0 
+Student 267 finished: dijital: 1 0 ismailAbi: 2 0 
+Student 274: with group quietOnes in room dijital with capacity 2
+Student 274 studying: dijital: 2 0 ismailAbi: 2 0 
+Student 271 finished: dijital: 2 0 ismailAbi: 1 0 
+Student 275: with group ruleBreakers in room dijital with capacity 2
+Student 270 finished: dijital: 2 0 ismailAbi: 0 0 
+Student 276: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 273 studying: dijital: 2 0 ismailAbi: 0 1 
+Student 266 finished: dijital: 1 0 ismailAbi: 0 1 
+Student 277: with group quietOnes in room dijital with capacity 2
+Student 259 studying: dijital: 2 0 ismailAbi: 0 1 
+Student 274 finished: dijital: 1 0 ismailAbi: 0 1 
+Student 278: with group quietOnes in room dijital with capacity 2
+Student 254 studying: dijital: 2 0 ismailAbi: 0 1 
+Student 273 finished: dijital: 2 0 ismailAbi: 0 0 
+Student 279: with group quietOnes in room dijital with capacity 2
+Student 276 studying: dijital: 2 0 ismailAbi: 1 0 
+Student 259 finished: dijital: 1 0 ismailAbi: 1 0 
+Student 280: with group quietOnes in room dijital with capacity 2
+Student 280 studying: dijital: 2 0 ismailAbi: 1 0 
+Student 254 finished: dijital: 1 0 ismailAbi: 1 0 
+Student 281: with group quietOnes in room dijital with capacity 2
+Student 252 studying: dijital: 2 0 ismailAbi: 1 0 
+Student 276 finished: dijital: 2 0 ismailAbi: 0 0 
+Student 282: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 282 studying: dijital: 2 0 ismailAbi: 1 0 
+Student 280 finished: dijital: 1 0 ismailAbi: 1 0 
+Student 283: with group slackers in room ismailAbi with capacity 3
+Student 249 studying: dijital: 2 0 ismailAbi: 1 0 
+Student 252 finished: dijital: 1 0 ismailAbi: 1 0 
+Student 238 studying: dijital: 2 0 ismailAbi: 1 0 
+Student 284: with group slackers in room ismailAbi with capacity 3
+Student 282 finished: dijital: 2 0 ismailAbi: 0 0 
+Student 285: with group slackers in room ismailAbi with capacity 3
+Student 283 studying: dijital: 2 0 ismailAbi: 0 1 
+Student 285 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 284 studying: dijital: 2 0 ismailAbi: 0 2 
+Student 249 finished: dijital: 1 0 ismailAbi: 0 3 
+Student 286: with group slackers in room ismailAbi with capacity 3
+Student 229 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 283 finished: dijital: 2 0 ismailAbi: 0 2 
+Student 287: with group ruleBreakers in room dijital with capacity 2
+Student 286 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 238 finished: dijital: 1 0 ismailAbi: 0 3 
+Student 288: with group ruleBreakers in room dijital with capacity 2
+Student 226 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 229 finished: dijital: 1 0 ismailAbi: 0 3 
+Student 289: with group quietOnes in room dijital with capacity 2
+Student 225 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 285 finished: dijital: 2 0 ismailAbi: 0 2 
+Student 290: with group seniorProjectProgrammers in room ismailAbi with capacity 3
+Student 284 finished: dijital: 2 0 ismailAbi: 0 1 
+Student 291: with group ruleBreakers in room dijital with capacity 2
+Student 226 finished: dijital: 1 0 ismailAbi: 0 1 
+Student 292: with group ruleBreakers in room dijital with capacity 2
+Student 221 studying: dijital: 2 0 ismailAbi: 0 1 
+Student 286 finished: dijital: 2 0 ismailAbi: 0 0 
+Student 290 studying: dijital: 2 0 ismailAbi: 1 0 
+Student 293: with group slackers in room ismailAbi with capacity 3
+Student 225 finished: dijital: 1 0 ismailAbi: 1 0 
+Student 294: with group quietOnes in room dijital with capacity 2
+Student 216 studying: dijital: 2 0 ismailAbi: 1 0 
+Student 290 finished: dijital: 2 0 ismailAbi: 0 0 
+Student 293 studying: dijital: 2 0 ismailAbi: 0 1 
+Student 295: with group quietOnes in room dijital with capacity 2
+Student 221 finished: dijital: 1 0 ismailAbi: 0 1 
+Student 296: with group slackers in room ismailAbi with capacity 3
+Student 296 studying: dijital: 1 0 ismailAbi: 0 2 
+Student 210 studying: dijital: 2 0 ismailAbi: 0 2 
+Student 216 finished: dijital: 1 0 ismailAbi: 0 2 
+Student 297: with group slackers in room ismailAbi with capacity 3
+Student 297 studying: dijital: 1 0 ismailAbi: 0 3 
+Student 209 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 210 finished: dijital: 1 0 ismailAbi: 0 3 
+Student 298: with group ruleBreakers in room dijital with capacity 2
+Student 203 studying: dijital: 2 0 ismailAbi: 0 3 
+Student 296 finished: dijital: 2 0 ismailAbi: 0 2 
+Student 299: with group quietOnes in room dijital with capacity 2
+Student 293 finished: dijital: 2 0 ismailAbi: 0 1 
+Student 209 finished: dijital: 1 0 ismailAbi: 0 1 
+Student 194 studying: dijital: 2 0 ismailAbi: 0 1 
+Student 297 finished: dijital: 2 0 ismailAbi: 0 0 
+Student 203 finished: dijital: 1 0 ismailAbi: 0 0 
+Student 277 studying: dijital: 2 0 ismailAbi: 0 0 
+Student 194 finished: dijital: 1 0 ismailAbi: 0 0 
+Student 278 studying: dijital: 2 0 ismailAbi: 0 0 
+Student 278 finished: dijital: 1 0 ismailAbi: 0 0 
+Student 279 studying: dijital: 2 0 ismailAbi: 0 0 
+Student 277 finished: dijital: 1 0 ismailAbi: 0 0 
+Student 281 studying: dijital: 2 0 ismailAbi: 0 0 
+Student 279 finished: dijital: 1 0 ismailAbi: 0 0 
+Student 289 studying: dijital: 2 0 ismailAbi: 0 0 
+Student 281 finished: dijital: 1 0 ismailAbi: 0 0 
+Student 294 studying: dijital: 2 0 ismailAbi: 0 0 
+Student 289 finished: dijital: 1 0 ismailAbi: 0 0 
+Student 295 studying: dijital: 2 0 ismailAbi: 0 0 
+Student 294 finished: dijital: 1 0 ismailAbi: 0 0 
+Student 299 studying: dijital: 2 0 ismailAbi: 0 0 
+Student 295 finished: dijital: 1 0 ismailAbi: 0 0 
+Student 299 finished: dijital: 0 0 ismailAbi: 0 0 
+Student 272 studying: dijital: 0 1 ismailAbi: 0 0 
+Student 298 studying: dijital: 0 2 ismailAbi: 0 0 
+Student 298 finished: dijital: 0 1 ismailAbi: 0 0 
+Student 292 studying: dijital: 0 2 ismailAbi: 0 0 
+Student 272 finished: dijital: 0 1 ismailAbi: 0 0 
+Student 291 studying: dijital: 0 2 ismailAbi: 0 0 
+Student 291 finished: dijital: 0 1 ismailAbi: 0 0 
+Student 288 studying: dijital: 0 2 ismailAbi: 0 0 
+Student 292 finished: dijital: 0 1 ismailAbi: 0 0 
+Student 287 studying: dijital: 0 2 ismailAbi: 0 0 
+Student 287 finished: dijital: 0 1 ismailAbi: 0 0 
+Student 275 studying: dijital: 0 2 ismailAbi: 0 0 
+Student 288 finished: dijital: 0 1 ismailAbi: 0 0 
+Student 275 finished: dijital: 0 0 ismailAbi: 0 0 
+
+Process finished with exit code 0

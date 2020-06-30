@@ -25,7 +25,7 @@ public class Covid
         try
         {
             this.rows = Files
-                    .lines(Paths.get("/home/ali/IdeaProjects/javahw3/src/com/company/covid19.csv"))
+                    .lines(Paths.get("/home/ali/Downloads/2019-2020 2. DÖNEM/CENG443/HWS/HW3"))
                     .map(row -> Arrays.asList(row.split(",")))
                     .collect(Collectors.toList());
         }
