@@ -1,0 +1,48 @@
+    .pos 0 # setup code
+    irmovq stack, %rsp
+    call main
+    halt
+
+# the array to reverse
+.pos 0x100 # hexadecimal
+array:
+    .quad 1 # decimal
+    .quad 2
+    .quad 3
+    .quad 4
+    .quad 5
+    .quad 6
+    .quad 7
+    .quad 8
+array_last:
+    .quad 9
+
+main:
+    irmovq array, %rdi
+    irmovq array_last, %rsi
+    irmovq $9, %rdx
+    call arev
+    ret
+
+arev:
+    # a = %rdi, a_last = %rsi, len = %rdx
+    irmovq $2, %r14     # 2 for len decr
+    irmovq $8, %r8      # 8 for pointer incr/decr
+    andq %rdx, %rdx     # length check 
+    jg loop             # return if <= 0
+    ret
+loop:
+    mrmovq (%rdi), %r11 # move both values to registers
+    mrmovq (%rsi), %r12
+    rmmovq %r11, (%rsi) # then move them into mem, swapped
+    rmmovq %r12, (%rdi)
+    addq %r8, %rdi      # add and sub 8 from pointers
+    subq %r8, %rsi
+    subq %r14, %rdx     # sub 2 from len
+    jg loop             # continue if not done (len > 0)
+    
+    ret                 # got out of loop, quit the function
+
+# stack grows upwards, so leave some space
+.pos 0x300
+stack:

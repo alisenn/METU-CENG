@@ -1,0 +1,61 @@
+#Ali Şen 2264661
+# Execution begins at address 0 
+.pos 0 
+	irmovq stack, %rsp  	# Set up stack pointer  
+	call main				# Execute main program
+	call rrev 				# call rrev(ele0)
+	halt					# Terminate program 
+
+# A sample five-element linked list
+# Aligned absolutely to make observing
+# differences in the memory layout easier
+.pos 0x100
+ele0:
+	.quad 0x0000a
+	.quad ele1
+ele1:
+	.quad 0x000b0
+	.quad ele2
+ele2:
+	.quad 0x00c00
+	.quad ele3
+ele3:
+	.quad 0x0d000
+	.quad ele4
+ele4:
+	.quad 0xe0000
+	.quad 0
+
+main:	
+	irmovq ele0, %rdi		# Set parameter
+	ret
+
+/* $begin rrev-ys */
+# long rrev(long *start, long count)
+# start in %rdi, count in %rsi
+
+rrev:
+	xorq %rax, %rax			 # Set return value to null | rev_head
+	andq %rdi,%rdi			 # Set condition codes
+	je     finish			 # Go to finish if it's null
+	mrmovq 0x8(%rdi), %r11   # r11 = head->next
+	andq   %r11, %r11        # or if head->next == null
+	je     finish			 # Go to finish
+	pushq %r10				 # If not null save value from caller
+	mrmovq 0x8(%rdi),%r10	 # Set the next node's value
+	mrmovq 0x8(%rdi),%rdi    # Go to next node
+	call rrev 				 # rev_head = rrev(ele1)
+	
+	rmmovq %rdi, 0x10(%rdi)  # head->next->next = head;
+	irmovq $0,%r13
+	rmmovq %r13, 0x8(%rdi)   # head->next = (void *) 0;
+	rrmovq %r10, %rax
+	popq %r10				 # restore caller's value
+	
+finish:
+	iaddq $0, %rax           # return head;
+	ret
+# The stack starts here and grows to lower addresses
+	.pos 0x300		
+stack:	 
+ 

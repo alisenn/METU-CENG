@@ -1,0 +1,8 @@
+    .pos 0
+    irmovq target, %rbx
+    irmovq $0xfeeb, %rax
+    jmpq %rbx
+    halt
+target:
+    irmovq $0xbeef, %rax
+    halt

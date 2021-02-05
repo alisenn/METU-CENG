@@ -1,0 +1,63 @@
+meshes
+scene
+
+https://www.shadertoy.com/view/XsjXR1 -> odul alan real-time hesaplamayla 3d goruntu sunan site
+https://www.turbosquid.com/ -> 3d modelling
+https://www.youtube.com/watch?v=lMSuGoYcT3s&ab_channel=ILMxLAB ->  A Star Wars UE4 Real-Time Ray Tracing Cinematic Demo
+
+2 main algoritma ogrencez
+1 - ray tracing
+2 - forward rendering pipeline (graphics library -> openGl )
+
+
+what is computer graphics ?
+ - bilgisayarların resimleri manipule etmede ya da yaratmada kullanımıdır.
+ - cg, bu tür resimleri, yazılımı ve donanımı yapmak için kullanılan araçlar ve algoritmalardır.
+
+In the simplest way, it is a way to draw pictures on a computer screen with the help of programming languages.
+
+ozet -> how we represent an image as a discrete set of pixels
+
+acuity -> process of perceiving detail
+
+most of the semester will be about rendering (hı amına)
+
+Images -> RGB (red green blue)
+
+luminance
+gamma correction
+
+Human Visual System
+
+focul point diyip duruyo mk o neyse
+
+
+1)IMAGES CAMERAS DISPLAY
+-Image formats (PPM)
+-Losless compression (PNG)(huffman endocding)(PPM)
+-Lossy compression (JPEG)
+-Dynamic Range = Luminance(parlaklık_{max})/ Lmin
+-Exposure Control (pozlama kontrolu)
+-Quantization(niceleme) bi şeyi sayı olcu vb ile bildirmek
+-HDR Image-(tonemap) LDR IMAGE(standar displayse tabi), hdr display device da direk gosterilebilir, tonemap olmadan
+-Display Devices
+Gamma ? //TODO (ideal gamma value 2.2)
+Gamma correction done as last step
+Lout(output Luminance = c(contrast)V(voltage)^y(gamma) + b(brightness) 
+
+2)HUMAN VISUAL SYSTEM
+-furkan gec dedi
+
+3)RAY TRACING GEOMETRY
+-ray tracing
+-components(camera, ımage plane, objects, light sources, lots of rays)
+
+4)RAY TRACING SHADING
+
+5)DATA STRUCTURES
+
+6)TEXTURE MAPPING
+
+7)MODELLING TRANSFORMATION
+
+8)WIEWING TRANSFORMATION

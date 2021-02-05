@@ -1,0 +1,176 @@
+#/* $begin ncopy-ys */
+##################################################################
+# ncopy.ys - Copy a src block of len words to dst.
+# Return the number of positive words (>0) contained in src.
+#
+# Include your name and ID here.
+#
+# Ali Şen
+# 2264661
+#
+# Describe how and why you modified the baseline code.
+
+# I changed "storing constant number to a register
+# and adding to another register then" to "adding constant number
+# to a register directly" by iaddq
+# As a result we freed a register and decrease cycle number
+# then I implemented a loop unrolling of 7 elements in each turn , and used 
+# jump table to handle the rest.
+#
+##################################################################
+# Do not modify this portion
+# Function prologue.
+# %rdi = src, %rsi = dst, %rdx = len
+ncopy:
+##################################################################
+	xorq %rax,%rax		# count = 0;
+
+ncopy:
+	iaddq $-7, %rdx 
+	jle remainder
+
+lp: 
+	mrmovq (%rdi), %r8 
+	mrmovq 8(%rdi), %r9 
+	mrmovq 16(%rdi), %r10 
+
+	rmmovq %r8, (%rsi)
+	andq %r8, %r8 
+	jle ele1 
+	iaddq $1, %rax 
+
+ele1:
+	mrmovq 24(%rdi), %r8 
+	rmmovq %r9, 8(%rsi) 
+	andq %r9, %r9 
+	jle ele2
+	iaddq $1, %rax
+
+ele2:
+	mrmovq 32(%rdi), %r9
+	rmmovq %r10, 16(%rsi) 
+	andq %r10, %r10 
+	jle ele3
+	iaddq $1, %rax
+
+ele3:
+	mrmovq 40(%rdi), %r10
+	mrmovq 48(%rdi), %r11
+	mrmovq 56(%rdi), %r12
+
+	rmmovq %r8, 24(%rsi) 
+	andq %r8, %r8
+	jle ele4
+	iaddq $1, %rax
+
+ele4:
+	rmmovq %r9, 32(%rsi)
+	andq %r9, %r9 
+	jle ele5
+	iaddq $1, %rax
+
+ele5:
+	rmmovq %r10, 40(%rsi)
+	andq %r10, %r10
+	jle ele6
+	iaddq $1, %rax
+
+ele6:
+	rmmovq %r11, 48(%rsi)
+	andq %r11, %r11
+	jle ele7
+	iaddq $1, %rax
+
+ele7:
+	rmmovq %r12, 56(%rsi)
+	andq %r12, %r12
+	jle lp_mamut
+	iaddq $1, %rax
+
+
+
+lp_mamut:
+	iaddq $64, %rdi 
+	iaddq $64, %rsi 
+	iaddq $-8, %rdx 
+	jg lp 
+
+remainder:
+	addq %rdx, %rdx 
+	addq %rdx, %rdx 
+	addq %rdx, %rdx 
+	mrmovq lastElem(%rdx), %rdx # rdx = array[lastElem]
+	mrmovq (%rdi), %r8 
+	mrmovq 8(%rdi), %r9
+	pushq %rdx 
+	ret 
+
+
+	.quad Done
+	.quad remainder1
+	.quad remainder2
+	.quad remainder3
+	.quad remainder4
+	.quad remainder5
+	.quad remainder6
+lastElem:
+	.quad remainder7
+
+
+remainder7:
+	mrmovq 48(%rdi), %r11
+	rmmovq %r11, 48(%rsi)
+	andq %r11, %r11
+	jle remainder6
+	iaddq $1, %rax
+
+remainder6:
+	mrmovq 40(%rdi), %r10
+	rmmovq %r10, 40(%rsi)
+	andq %r10, %r10
+	jle remainder5
+	iaddq $1, %rax
+
+remainder5:
+	mrmovq 32(%rdi), %r11
+	rmmovq %r11, 32(%rsi)
+	andq %r11, %r11
+	jle remainder4
+	iaddq $1, %rax
+
+remainder4:
+	mrmovq 24(%rdi), %r10
+	mrmovq 16(%rdi), %r11
+	rmmovq %r10, 24(%rsi)
+	andq %r10, %r10
+	jle remainder3
+	iaddq $1, %rax
+
+remainder3:
+	mrmovq 16(%rdi), %r11
+	rmmovq %r11, 16(%rsi)
+	andq %r11, %r11
+	jle remainder2
+	iaddq $1, %rax
+
+remainder2:
+	rmmovq %r9, 8(%rsi)
+	andq %r9, %r9
+	jle remainder1
+	iaddq $1, %rax
+
+remainder1:
+	rmmovq %r8, (%rsi)
+	andq %r8, %r8
+	jle Done
+	iaddq $1, %rax
+
+##################################################################
+# Do not modify the following section of code
+# Function epilogue.
+Done:
+	ret
+##################################################################
+# Keep the following label at the end of your function
+End:
+#/* $end ncopy-ys */
