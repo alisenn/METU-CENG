@@ -1,0 +1,72 @@
+#Ali Şen 2264661
+
+# Execution begins at address 0 
+.pos 0 
+    irmovq stack, %rsp      # Set up stack pointer  
+    irmovq array, %rdi      # Set parameter src to %rdi
+    irmovq arrayp3, %rsi        # Set parameter dest to %r10
+    irmovq $3, %rdx         # set len=3
+    irmovq $8, %r8          # mov r10 to the next address
+    irmovq $-1, %r9          # mov r10 to the next address
+    call copy_block         # call copy_block
+    halt                    # Terminate program 
+
+# an array of 9 elements
+# again, positioned absolutely
+.pos 0x100
+array:
+.quad 0x000000001
+.quad 0x000000020
+.quad 0x000000300
+# a pointer to the fourth element here
+arrayp3:
+.quad 0x000004000
+.quad 0x000050000
+.quad 0x000600000
+.quad 0x007000000
+.quad 0x080000000
+.quad 0x900000000
+
+# src -> %rdi | dst -> %rsi | len -> %rdx
+
+copy_block:
+    irmovq $0, %rax                 #checksum
+    irmovq $-1, %r12
+    irmovq $8, %r13                 #step = 8
+    rrmovq %rdi, %r8                #src_v
+    rrmovq %rsi, %r9                #dst_v
+    subq %r8, %r9                   #src_v-dst_v
+    jge go                          #go to copy loop
+    irmovq $0, %r9                  #sum
+    irmovq $8, %r10                 #elem_size
+    rrmovq %rdx, %r11               #len
+addloop:
+    addq %r12, %r11                 #len--
+    addq %r10, %r9                  #sum += elem_size
+    andq %r11, %r11                 #len == 0 ?
+    jne addloop                     #return loop
+    addq %rdi, %r9                  #sum += src
+    subq %rsi, %r9                  #dst - sum
+    jge go                          #go to copy loop
+    irmovq $-8, %r13                #step = -8
+    addq %rsi, %r9                  #elemsize*len
+    subq %r13, %r9                  #elemsize(len-1)
+    addq %r9, %rsi                  #dst = dst + elemsize(len - 1)
+    addq %r9, %rdi                  #src = src + elemsize(len - 1)
+#dst : rsi | src : rdi | len : rdx | step : r13 | -1 : r12
+go:
+    andq %rdx, %rdx                 #len == 0 ?
+    je finish                       #done
+    mrmovq (%rdi), %r11
+    xorq %r11, %rax
+    rmmovq %r11, (%rsi)
+    addq %r13, %rsi
+    addq %r13, %rdi
+    addq %r12, %rdx
+    jmp go                          #not done yet
+finish:
+    ret
+
+# The stack starts here and grows to lower addresses
+    .pos 0x100      
+stack:   

@@ -1,0 +1,118 @@
+#week 2
+
+Uml
+Modeling
+Writing code in an understandable way(variable name vs..)
+
+Modelingle alakalı bir proje oluşturcagız sanırım.
+
+#week 3
+
+UML is engineering level solution not the language level
+
+Design Patterns
+
+#week 4
+
+how to model software system
+
+oop - inheritance - polymorhism 
+Modeling
+drawing models to "understand"
+
+How much Details ?
+how many items human brain can understand (together) ? (given at the same time)
+solution: divide the details into parts to understand and not understand all of them at the same time. learn what you need at the first place not all of them.
+
+how to divide ? -> hiyakarki(hiyararşi)
+top down, 
+
+Herb simon(hoca yazmış diye yazdım kim bilmiyom)
+
+
+#week 5
+
+fundamental oop concepts
+	encapsulation(info hiding): data and func. packed together
+	inheritance: base class
+	polymorphism: same func name with diff. actiong on diff classes
+		Dynamic "binding" is choosing which implementation of a method will be called at runtime (late binding ? )
+
+7-2 rule ?
+
+object based languages = visual basic 1.0, fortran 90, ada, c
+
+in c we can put functions in struct but not directly
+
+c allow overloading
+what is the first language that allows overloading in history? A = B + K
+
+messages, ata used it first
+	four parts
+	identity of the recipient object
+	code to be executed by the recipient
+	arguments for the code
+	return value
+relations, -> 4
+	inheritance , association, composition and aggregation
+
+#week 6 
+
+Polymorhism depends on Inheritance depends on Encapsulation
+
+data/function seperation
+
+Polymorhism and inheritance(again)
+
+# 7
+Polymorhism
+Multiple Inheritance
+
+#8
+
+Multiple Inheritance
+Name conflict
+Diamond (Inheritance)problem ? not solvable, undefined
+over-abstraction
+
+Problems in Classification (animal carniv, herbiv etc)
+Non-prioritized Classificatiion Criteria
+Object Based Media
+	visual basic
+	ada
+inheritance/compositon
+
+#9
+
+System/subsystem structure
+SUBSYTEM İN UML
+COSEML
+Language Dependency
+
+#10
+Language Dependency
+	Modeling should consider coding language, from the beginning
+
+General approach
+
+User Case Diagram
+
+#11
+
+Use Case diagram
+
+Collaboration Diagram
+
+#12
+State Diagram(Mealy Machine)
+
+Moore Machine (traffic light example)
+
+#13
+
+sequence Diagram
+
+#14
+
+message numbering
+Design levels

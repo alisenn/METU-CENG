@@ -1,0 +1,7 @@
+The text is When I get angry, Mr. Bigglesworth gets upset.
+0 0 2 3 8 11
+1 868 0
+8 21
+12 289
+1 4 6 5 3 2
+

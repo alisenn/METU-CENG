@@ -1,0 +1,49 @@
+#Ali Şen 2264661
+
+#Execution begins at address 0 
+.pos 0 
+	irmovq stack, %rsp  	# Set up stack pointer  
+	irmovq ele0, %rdi		# set parameter
+	call rev			    # call rev(ele0)
+	halt					# Terminate program 
+
+# A sample five-element linked list
+# Aligned absolutely to make observing
+# differences in the memory layout easier
+.pos 0x100
+ele0:
+	.quad 0x0000a
+	.quad ele1
+ele1:
+	.quad 0x000b0
+	.quad ele2
+ele2:
+	.quad 0x00c00
+	.quad ele3
+ele3:
+	.quad 0x0d000
+	.quad ele4
+ele4:
+	.quad 0xe0000
+	.quad 0
+
+/* $begin rev */
+# struct list *rev(struct list *head) // head -> %rdi
+rev:
+	irmovq $0, %rax 		# *prev = (void*)0; // prev -> %rax
+	jmp test 				# jump directly to test
+loop:
+	mrmovq 0x8(%rdi), %r10 	# struct list *next = head->next; // next -> %r10
+	rmmovq %rax, 0x8(%rdi) 	# head->next = prev;
+	rrmovq %rdi, %rax       # prev = head;
+	rrmovq %r10, %rdi       # head = next;
+test:
+	andq %rdi, %rdi 		# test loop variable
+	jne loop 				# return loop if it's not null
+	ret 					
+/* $end rev */
+
+
+# The stack starts here and grows to lower addresses
+	.pos 0x300		
+stack:	 
